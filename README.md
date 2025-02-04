@@ -1,1 +1,1 @@
-# krostina-danger.com
+# krostina.com
